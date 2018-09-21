@@ -1,0 +1,30 @@
+_repo: Cardinal-Wolsey_53526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Creighton, M. (Mandell)
+    aliases:
+    - Creighton, Bishop (Mandell)
+    - Creighton, Mandell
+    - Creighton, Mandell, Bp. of London
+    birthdate: 1843
+    deathdate: 1901
+    gutenberg_agent_id: '47412'
+    url: http://www.gutenberg.org/2009/agents/47412
+    wikipedia: https://en.wikipedia.org/wiki/Mandell_Creighton
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2016-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wolsey, Thomas, 1475?-1530'
+- !lcc 'DA'
+- GITenberg
+title: Cardinal Wolsey
+url: http://www.gutenberg.org/ebooks/53526
